@@ -1,0 +1,21 @@
+body {
+    background-image: url("images/hearts5.jpg");
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    text-align: left;
+}
+h1 {
+    border: solid;
+text-align: center;
+color: rgb(221, 78, 86);
+}
+p {
+ font-style: italic;
+}
+
+
+
+img {
+width: auto;
+height: 400px;
+}
