@@ -4,18 +4,42 @@ body {
     font-size: 20px;
     text-align: left;
 }
+
 h1 {
     border: solid;
-text-align: center;
-color: rgb(221, 78, 86);
+    text-align: center;
+    color: rgb(221, 78, 86);
 }
+
 p {
- font-style: italic;
+    font-style: italic;
 }
 
 
 
 img {
-width: auto;
-height: 400px;
+    width: auto;
+    height: 400px;
+}
+
+/* .but {
+    border: 4mm ridge rgba(243, 80, 156, 0.6);
+} */
+
+.button {
+    /* background-color: pink;
+    font-size: 22px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    color: black; */
+    display: block;
+    width: 115px;
+    height: 25px;
+    background: #da6aa2;
+    padding: 10px;
+    text-align: center;
+    text-decoration:none;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    line-height: 25px;
 }
